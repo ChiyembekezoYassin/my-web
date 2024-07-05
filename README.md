@@ -4,3 +4,6 @@
 ## How to install
 1. use node.js
 2. click install.exe
+3. follow prompt steps
+4. Wait for it to complete
+   
